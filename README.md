@@ -1,6 +1,5 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# ReactJS and TypeScript Add to List
+### <a href="https://epic-panini-b723f6.netlify.app">LIVE DEMO </a>
 
 ## Available Scripts
 
